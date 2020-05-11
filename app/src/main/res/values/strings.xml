@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SmartQuiz</string>
+    <string name="header">G u e s s T h e V e r s e</string>
+    <string name="start">Start</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="exit">Exit</string>
+    <string name="kwesyen1">1. Who was the 1st president of Indonesia?</string>
+    <string name="kwesyen1a">A. Soekarno. </string>
+    <string name="kwesyen1b">B. Moh. Hatta.</string>
+    <string name="kwesyen1c">C. B.J Habibie.</string>
+    <string name="kwesyen2">2. What is the capital city of Indonesia?</string>
+    <string name="kwesyen2a">A. Bandung.</string>
+    <string name="kwesyen2b">B. Bangka Belitung.</string>
+    <string name="kwesyen2c">C. Jakarta.</string>
+    <string name="hoow">How to Play This Game?</string>
+    <string name="back">Back</string>
+    <string name="explhow">ya mainin ajasi tinggal coba coba masa gabisa.</string>
+    <string name="next">Next</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="previous">Previous</string>
+    <string name="choice1">Guess the Verse</string>
+    <string name="choice2">MHQ</string>
+</resources>

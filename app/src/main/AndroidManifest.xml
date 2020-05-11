@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quiz">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/kecil"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".juz27_gtv"></activity>
+        <activity android:name=".juz26_gtv" />
+        <activity android:name=".juz25_gtv" />
+        <activity android:name=".juz24_gtv" />
+        <activity android:name=".juz23_gtv" />
+        <activity android:name=".juz22_gtv" />
+        <activity android:name=".juz21_gtv" />
+        <activity android:name=".juz20_gtv" />
+        <activity android:name=".juz19_gtv" />
+        <activity android:name=".juz18_gtv" />
+        <activity android:name=".juz17_gtv" />
+        <activity android:name=".juz16_gtv" />
+        <activity android:name=".juz15_gtv" />
+        <activity android:name=".juz14_gtv" />
+        <activity android:name=".juz13_gtv" />
+        <activity android:name=".juz12_gtv" />
+        <activity android:name=".juz11_gtv" />
+        <activity android:name=".juz10_gtv" />
+        <activity android:name=".juz9_gtv" />
+        <activity android:name=".juz8_gtv" />
+        <activity android:name=".juz7_gtv" />
+        <activity android:name=".juz6_gtv" />
+        <activity android:name=".juz5_gtv" />
+        <activity android:name=".juz4_gtv" />
+        <activity android:name=".juz3_gtv" />
+        <activity android:name=".juz2_gtv" />
+        <activity android:name=".juz1_gtv" />
+        <activity android:name=".table" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
